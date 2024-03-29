@@ -8,7 +8,6 @@
 <?import javafx.scene.layout.VBox?>
 <?import javafx.scene.text.Font?>
 
-
 <VBox alignment="CENTER" fillWidth="false" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" spacing="20.0" style="-fx-background-color: white;" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.hangedgame.controller.WelcomeController">
    <children>
       <Label alignment="CENTER" prefHeight="35.0" prefWidth="600.0" style="-fx-background-color: BLACK;" text="BIENVENIDO AL JUEGO DEL AHORCADO" textAlignment="CENTER" textFill="WHITE">
@@ -26,7 +25,7 @@
             <Font name="Goudy Old Style" size="23.0" />
          </font>
       </Label>
-      <TextField fx:id="secretTextField" />
+      <TextField fx:id="secretTextField" alignment="CENTER" />
       <Button alignment="CENTER" contentDisplay="CENTER" mnemonicParsing="false" onAction="#onHandlerButtonPlay" prefHeight="41.0" prefWidth="109.0" style="-fx-border-color: black; -fx-border-width: 2; -fx-border-radius: 20; -fx-background-radius: 20;" text="Jugar" textAlignment="CENTER">
          <font>
             <Font name="Goudy Stout" size="12.0" />

@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65772970-2f01-4b4f-96ed-e6c7e6f9e9c8" name="Changes" comment="" />
+    <list default="true" id="65772970-2f01-4b4f-96ed-e6c7e6f9e9c8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/hangedgame/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/hangedgame/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/hangedgame/controller/GameController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/hangedgame/controller/GameController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/hangedgame/controller/WelcomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/hangedgame/controller/WelcomeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/hangedgame/view/GameStage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/hangedgame/view/GameStage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/hangedgame/view/WelcomeStage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/hangedgame/view/WelcomeStage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/hangedgame/view/alert/AlertBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/hangedgame/view/alert/AlertBox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/hangedgame/view/alert/IAlertBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/hangedgame/view/alert/IAlertBox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/hangedgame/Game-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/hangedgame/Game-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/hangedgame/Welcome-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/hangedgame/Welcome-view.fxml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +55,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "hdgm",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/DARIO/Desktop/Nueva carpeta (2)/HangedGame",
+    "last_opened_file_path": "C:/Users/DARIO/Desktop/ahorcado/HangedGame",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -72,7 +83,10 @@
       <updated>1711399291604</updated>
       <workItem from="1711399292642" duration="154000" />
       <workItem from="1711400580748" duration="12494000" />
-      <workItem from="1711416203595" duration="949000" />
+      <workItem from="1711416203595" duration="1147000" />
+      <workItem from="1711724580341" duration="8557000" />
+      <workItem from="1711736244494" duration="8593000" />
+      <workItem from="1711748467424" duration="1541000" />
     </task>
     <servers />
   </component>
