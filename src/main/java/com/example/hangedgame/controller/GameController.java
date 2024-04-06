@@ -153,7 +153,7 @@ public class GameController {
                 }
             }
             if (close == Secret.length()) {
-                new AlertBox().showConfirm("¡FELICITACIONES!", "Encontrarste la palabra secreta, has ganado", "Gracias por jugar, hasta luego");
+                new AlertBox().showConfirm("¡FELICITACIONES!", "Encontraste la palabra secreta, haz ganado", "Gracias por jugar, hasta luego");
                 GameStage.deleteInstance();
             } else {
                 close = 0;
